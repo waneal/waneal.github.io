@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>diary on waneal blog</title>
+    <link>https://waneal.github.io/categories/diary/</link>
+    <description>Recent content in diary on waneal blog</description>
+    <image>
+      <url>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 May 2021 11:44:07 +0900</lastBuildDate><atom:link href="https://waneal.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my first blog post</title>
+      <link>https://waneal.github.io/posts/my_first_blog_post/</link>
+      <pubDate>Sun, 09 May 2021 11:44:07 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/my_first_blog_post/</guid>
+      <description>Hi, I am waneal. This is my first blog post. From now on, I will post various types of blogs.
+The aim of this blog is to learn English. I usually read English texts to understand specification of some tools, but not write. Generally, living in Japan, we do not use english to let someone know something, and so I want to make a habit of using English. For the people usually using english, it is so easy to post a short English blog.</description>
+    </item>
+    
+  </channel>
+</rss>
