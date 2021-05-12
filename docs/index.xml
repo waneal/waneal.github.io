@@ -9,7 +9,17 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 May 2021 23:14:44 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 21:29:35 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deregister unused instances in SSM</title>
+      <link>https://waneal.github.io/posts/deregister_unused_instances_in_ssm/</link>
+      <pubDate>Wed, 12 May 2021 21:29:35 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/deregister_unused_instances_in_ssm/</guid>
+      <description>AWS Systems Manager can manage instances by Fleet Manager. It can cover not only aws instances, but also on-premiss instances by Hybrid Activations. For example, using Hybrid Activations and managing servers which are under control of auto-scaling function in on-premiss environment, some servers become ConnectionLost status in Fleet Manager when their servers are terminated by scale in action. At result, unused servers continue existing in Fleet Manager.
+To resolve that problem, I regularly clean up unused instances by below lambda function.</description>
+    </item>
+    
     <item>
       <title>20210511</title>
       <link>https://waneal.github.io/posts/20210511/</link>
@@ -20,7 +30,7 @@
     </item>
     
     <item>
-      <title>new family member</title>
+      <title>New family member</title>
       <link>https://waneal.github.io/posts/new_family_member/</link>
       <pubDate>Mon, 10 May 2021 23:12:43 +0900</pubDate>
       
@@ -31,7 +41,7 @@ This is him.</description>
     </item>
     
     <item>
-      <title>my first blog post</title>
+      <title>My first blog post</title>
       <link>https://waneal.github.io/posts/my_first_blog_post/</link>
       <pubDate>Sun, 09 May 2021 11:44:07 +0900</pubDate>
       

@@ -1,8 +1,8 @@
 ---
-title: "my first blog post"
+title: "My first blog post"
 date: 2021-05-09T11:44:07+09:00
 draft: false
-categories: ["diary"]
+categories: ["Diary"]
 tags: ["English"]
 ---
 

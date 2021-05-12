@@ -9,9 +9,27 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 May 2021 23:14:44 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 21:29:35 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>what I thought</title>
+      <title>AWS</title>
+      <link>https://waneal.github.io/tags/aws/</link>
+      <pubDate>Wed, 12 May 2021 21:29:35 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSM</title>
+      <link>https://waneal.github.io/tags/ssm/</link>
+      <pubDate>Wed, 12 May 2021 21:29:35 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/tags/ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What I thought</title>
       <link>https://waneal.github.io/tags/what-i-thought/</link>
       <pubDate>Tue, 11 May 2021 23:14:44 +0900</pubDate>
       
@@ -20,7 +38,7 @@
     </item>
     
     <item>
-      <title>appliances</title>
+      <title>Appliances</title>
       <link>https://waneal.github.io/tags/appliances/</link>
       <pubDate>Mon, 10 May 2021 23:12:43 +0900</pubDate>
       
@@ -29,7 +47,7 @@
     </item>
     
     <item>
-      <title>robot cleaner</title>
+      <title>Robot cleaner</title>
       <link>https://waneal.github.io/tags/robot-cleaner/</link>
       <pubDate>Mon, 10 May 2021 23:12:43 +0900</pubDate>
       

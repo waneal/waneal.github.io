@@ -1,9 +1,9 @@
 ---
-title: "new family member"
+title: "New family member"
 date: 2021-05-10T23:12:43+09:00
 draft: false
-categories: ["diary"]
-tags: ["robot cleaner", "appliances"]
+categories: ["Diary"]
+tags: ["Robot cleaner", "Appliances"]
 ---
 
 Yesterday, we welcomed a new family member. 
