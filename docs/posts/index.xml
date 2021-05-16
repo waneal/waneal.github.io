@@ -9,7 +9,17 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 May 2021 22:07:37 +0900</lastBuildDate><atom:link href="https://waneal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 23:00:42 +0900</lastBuildDate><atom:link href="https://waneal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Executable files information of go</title>
+      <link>https://waneal.github.io/posts/executable_files_information_of_go/</link>
+      <pubDate>Sun, 16 May 2021 23:00:42 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/executable_files_information_of_go/</guid>
+      <description>go version -m can print module dependency of executable file&amp;rsquo;s code.
+&amp;gt; go version -m /usr/local/bin/peco /usr/local/bin/peco: go1.14.5 path command-line-arguments mod github.com/peco/peco (devel) dep github.com/google/btree v0.0.0-20161213163243-0c3044bc8bad h1:IIXE5Gtu2VS7SL3lhB61iSliE+jpOwuYDYAH4HGxGwY= dep github.com/jessevdk/go-flags v1.1.0 h1:Geou1o2RJhW9nUu+puVL2ASZMWjfj6+uy97+byGKL98= dep github.com/lestrrat-go/pdebug v0.0.0-20180220043849-39f9a71bcabe h1:S7XSBlgc/eI2v47LkPPVa+infH3FuTS4tPJbqCtJovo= dep github.com/mattn/go-runewidth v0.0.0-20161012013512-737072b4e32b h1:idzeyUe3K4aU/SIZWMykIkJJyTD7CgDkxUQEjV07fno= dep github.com/nsf/termbox-go v0.0.0-20190817171036-93860e161317 h1:hhGN4SFXgXo61Q4Sjj/X9sBjyeSa2kdpaOzCO+8EVQw= dep github.com/pkg/errors v0.0.0-20161029093637-248dadf4e906 h1:aXc/AM323HlkOXjl3QuSO06wbXK45HrzBT+pwVOufXg= https://golang.org/pkg/cmd/go/internal/version/</description>
+    </item>
+    
     <item>
       <title>20210516</title>
       <link>https://waneal.github.io/posts/20210516/</link>
