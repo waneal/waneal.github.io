@@ -9,11 +9,11 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 May 2021 23:00:42 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 23:00:43 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Executable files information of go</title>
       <link>https://waneal.github.io/posts/executable_files_information_of_go/</link>
-      <pubDate>Sun, 16 May 2021 23:00:42 +0900</pubDate>
+      <pubDate>Sun, 16 May 2021 23:00:43 +0900</pubDate>
       
       <guid>https://waneal.github.io/posts/executable_files_information_of_go/</guid>
       <description>go version -m can print module dependency of executable file&amp;rsquo;s code.

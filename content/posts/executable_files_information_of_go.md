@@ -1,6 +1,6 @@
 ---
 title: "Executable files information of go"
-date: 2021-05-16T23:00:42+09:00
+date: 2021-05-16T23:00:43+09:00
 draft: false
 categories: ["Tech"]
 tags: ["Go"]
