@@ -9,7 +9,18 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 May 2021 00:06:12 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 May 2021 20:41:56 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Switch email and name for each Git repository</title>
+      <link>https://waneal.github.io/posts/switch_email_and_name_for_each_git_repository/</link>
+      <pubDate>Sat, 22 May 2021 20:41:56 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/switch_email_and_name_for_each_git_repository/</guid>
+      <description>Sometimes, I would like to switch user.name and user.email of git configuration. For example, I have two GitHub account, for business and for private. When I push some commits to repositories through the same laptop, name and email must be configured correctly for appropriate repository.
+In this case, we should set up user configuration for each repository. We can use below commands.
+$ cd YOUR_REPOSITORY $ git config --local user.name &amp;#34;hogehoge&amp;#34; $ git config --local user.</description>
+    </item>
+    
     <item>
       <title>20210521</title>
       <link>https://waneal.github.io/posts/20210521/</link>
