@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on waneal blog</title>
+    <link>https://waneal.github.io/tags/aws/</link>
+    <description>Recent content in AWS on waneal blog</description>
+    <image>
+      <url>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 May 2021 21:29:35 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deregister unused instances in SSM</title>
+      <link>https://waneal.github.io/posts/deregister_unused_instances_in_ssm/</link>
+      <pubDate>Wed, 12 May 2021 21:29:35 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/deregister_unused_instances_in_ssm/</guid>
+      <description>AWS Systems Manager can manage instances by Fleet Manager. It can cover not only aws instances, but also on-premiss instances by Hybrid Activations. For example, using Hybrid Activations and managing servers which are under control of auto-scaling function in on-premiss environment, some servers become ConnectionLost status in Fleet Manager when their servers are terminated by scale in action. At result, unused servers continue existing in Fleet Manager.
+To resolve that problem, I regularly clean up unused instances by below lambda function.</description>
+    </item>
+    
+  </channel>
+</rss>
