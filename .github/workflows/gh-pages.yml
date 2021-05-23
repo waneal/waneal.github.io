@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-  pull_request:
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -20,6 +20,9 @@ jobs:
         uses: peaceiris/actions-hugo@2e89aa66d0093e4cd14751b3028fc1a179452c2e
         with:
           hugo-version: '0.79.0'
+
+      - name: debug
+        run: ls -alth
 
       - name: Build
         run: hugo --minify
