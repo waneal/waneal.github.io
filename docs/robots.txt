@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://waneal.github.io/sitemap.xml
