@@ -9,7 +9,16 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 May 2021 20:41:56 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 23:19:50 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20210523</title>
+      <link>https://waneal.github.io/posts/20210523/</link>
+      <pubDate>Sun, 23 May 2021 23:19:50 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/20210523/</guid>
+      <description>I add new function for posting this blog, it is an auto deployment by GitHub Actions. I found some convenient actions helping to update GitHub Pages, and could create deployment configuration easily. However, deployment in GitHub Pages has not been finished from now yet (Maybe, it is not related with these actions). It spent over an hour in Page Build phase. I give up to make sure of finish today.</description>
+    </item>
+    
     <item>
       <title>Switch email and name for each Git repository</title>
       <link>https://waneal.github.io/posts/switch_email_and_name_for_each_git_repository/</link>

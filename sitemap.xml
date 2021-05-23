@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://waneal.github.io/categories/</loc>
-    <lastmod>2021-05-22T20:41:56+09:00</lastmod>
+    <loc>https://waneal.github.io/posts/20210523/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://waneal.github.io/tags/git/</loc>
-    <lastmod>2021-05-22T20:41:56+09:00</lastmod>
+    <loc>https://waneal.github.io/categories/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waneal.github.io/categories/diary/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://waneal.github.io/posts/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waneal.github.io/tags/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waneal.github.io/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waneal.github.io/tags/what-i-thought/</loc>
+    <lastmod>2021-05-23T23:19:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://waneal.github.io/tags/git/</loc>
     <lastmod>2021-05-22T20:41:56+09:00</lastmod>
   </url>
   
@@ -23,32 +48,12 @@
   </url>
   
   <url>
-    <loc>https://waneal.github.io/tags/</loc>
-    <lastmod>2021-05-22T20:41:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://waneal.github.io/categories/tech/</loc>
     <lastmod>2021-05-22T20:41:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://waneal.github.io/</loc>
-    <lastmod>2021-05-22T20:41:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://waneal.github.io/posts/20210521/</loc>
-    <lastmod>2021-05-22T00:06:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://waneal.github.io/categories/diary/</loc>
-    <lastmod>2021-05-22T00:06:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://waneal.github.io/tags/what-i-thought/</loc>
     <lastmod>2021-05-22T00:06:12+09:00</lastmod>
   </url>
   
