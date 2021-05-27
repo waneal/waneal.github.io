@@ -9,7 +9,17 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 May 2021 23:32:40 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 22:52:27 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure base image by argument</title>
+      <link>https://waneal.github.io/posts/configure_base_image_by_argument/</link>
+      <pubDate>Thu, 27 May 2021 22:52:27 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/configure_base_image_by_argument/</guid>
+      <description>It is rare case, but sometimes I have to configure base image by command argument while executing docker build. For example, there are two AWS account, and I use base image contained in each ECR (Elastic Container Registry) for each account. Even I have two base image, but I should use only one Dockerfile. In this case, this solution help me.
+ Dockerfile  ARG BASE_IMAGEFROM${BASE_IMAGE}:latestRUN hogehoge Command  $ docker build --build-arg BASE_IMAGE=XXXXXXXX.</description>
+    </item>
+    
     <item>
       <title>20210526</title>
       <link>https://waneal.github.io/posts/20210526/</link>
