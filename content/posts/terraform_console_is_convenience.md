@@ -48,4 +48,7 @@ It is convenience for check values of data and resources because this command ca
   "path" = "/service-role/"
   "policy" = "{...}"
 }
+
+https://www.terraform.io/docs/cli/commands/console.html
+
 ```
