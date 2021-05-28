@@ -9,7 +9,17 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 May 2021 22:52:27 +0900</lastBuildDate><atom:link href="https://waneal.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 21:04:16 +0900</lastBuildDate><atom:link href="https://waneal.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>`terraform console` is convenience</title>
+      <link>https://waneal.github.io/posts/terraform_console_is_convenience/</link>
+      <pubDate>Fri, 28 May 2021 21:04:16 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/terraform_console_is_convenience/</guid>
+      <description>I&amp;rsquo;m using terraform in my company, and I like it. We don&amp;rsquo;t have to memorize all expressions of terraform to use it because of IDE&amp;rsquo;s auto complement function. In addition, sometimes I want to test some expressions quickly. terraform console can help it.
+&amp;gt; terraform console &amp;gt; [for s in [&amp;#34;a&amp;#34;, &amp;#34;b&amp;#34;, &amp;#34;c&amp;#34;] : upper(s)] [ &amp;#34;A&amp;#34;, &amp;#34;B&amp;#34;, &amp;#34;C&amp;#34;, ] It is convenience for check values of data and resources because this command can read values in current tfstate.</description>
+    </item>
+    
     <item>
       <title>Configure base image by argument</title>
       <link>https://waneal.github.io/posts/configure_base_image_by_argument/</link>
