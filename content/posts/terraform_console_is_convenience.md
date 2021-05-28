@@ -1,7 +1,9 @@
 ---
 title: "`terraform console` is convenience"
 date: 2021-05-28T21:04:16+09:00
-draft: true
+draft: false
+categories: ["Tech"]
+tags: ["Terraform"]
 ---
 
 I'm using terraform in my company, and I like it. We don't have to memorize all expressions of terraform to use it because of IDE's auto complement function. In addition, sometimes I want to test some expressions quickly. `terraform console` can help it. 
