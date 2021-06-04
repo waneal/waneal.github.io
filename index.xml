@@ -9,7 +9,17 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Jun 2021 01:07:00 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 22:34:50 +0900</lastBuildDate><atom:link href="https://waneal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debug CodeBuild with custom image</title>
+      <link>https://waneal.github.io/posts/debug_codebuild_with_custom_image/</link>
+      <pubDate>Fri, 04 Jun 2021 22:34:50 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/posts/debug_codebuild_with_custom_image/</guid>
+      <description>AWS CodeBuild is managed service for helping continuous integration and deployment. In CodeBuild, we normally use managed container image provided Amazon, it contains almost runtimes like android, dotnet, golang and more. We&amp;rsquo;re usually satisfied the managed image, but sometimes need to use custom image you build, CodeBuild can run on it.
+When debugging in CodeBuild, we can log in the container running by codebuild, it&amp;rsquo;s very convenience. To use the function, we set codebuild-breakpoint in buildspec file.</description>
+    </item>
+    
     <item>
       <title>20210603</title>
       <link>https://waneal.github.io/posts/20210603/</link>

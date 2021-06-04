@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AWS on waneal blog</title>
-    <link>https://waneal.github.io/tags/aws/</link>
-    <description>Recent content in AWS on waneal blog</description>
+    <title>CodeBuild on waneal blog</title>
+    <link>https://waneal.github.io/tags/codebuild/</link>
+    <description>Recent content in CodeBuild on waneal blog</description>
     <image>
       <url>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Jun 2021 22:34:50 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 22:34:50 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/codebuild/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debug CodeBuild with custom image</title>
       <link>https://waneal.github.io/posts/debug_codebuild_with_custom_image/</link>
@@ -18,16 +18,6 @@
       <guid>https://waneal.github.io/posts/debug_codebuild_with_custom_image/</guid>
       <description>AWS CodeBuild is managed service for helping continuous integration and deployment. In CodeBuild, we normally use managed container image provided Amazon, it contains almost runtimes like android, dotnet, golang and more. We&amp;rsquo;re usually satisfied the managed image, but sometimes need to use custom image you build, CodeBuild can run on it.
 When debugging in CodeBuild, we can log in the container running by codebuild, it&amp;rsquo;s very convenience. To use the function, we set codebuild-breakpoint in buildspec file.</description>
-    </item>
-    
-    <item>
-      <title>Deregister unused instances in SSM</title>
-      <link>https://waneal.github.io/posts/deregister_unused_instances_in_ssm/</link>
-      <pubDate>Wed, 12 May 2021 21:29:35 +0900</pubDate>
-      
-      <guid>https://waneal.github.io/posts/deregister_unused_instances_in_ssm/</guid>
-      <description>AWS Systems Manager can manage instances by Fleet Manager. It can cover not only aws instances, but also on-premiss instances by Hybrid Activations. For example, using Hybrid Activations and managing servers which are under control of auto-scaling function in on-premiss environment, some servers become ConnectionLost status in Fleet Manager when their servers are terminated by scale in action. At result, unused servers continue existing in Fleet Manager.
-To resolve that problem, I regularly clean up unused instances by below lambda function.</description>
     </item>
     
   </channel>

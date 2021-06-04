@@ -9,7 +9,34 @@
       <link>https://waneal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Jun 2021 01:07:00 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 22:34:50 +0900</lastBuildDate><atom:link href="https://waneal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>https://waneal.github.io/tags/aws/</link>
+      <pubDate>Fri, 04 Jun 2021 22:34:50 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CodeBuild</title>
+      <link>https://waneal.github.io/tags/codebuild/</link>
+      <pubDate>Fri, 04 Jun 2021 22:34:50 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/tags/codebuild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://waneal.github.io/tags/docker/</link>
+      <pubDate>Fri, 04 Jun 2021 22:34:50 +0900</pubDate>
+      
+      <guid>https://waneal.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>What I thought</title>
       <link>https://waneal.github.io/tags/what-i-thought/</link>
@@ -25,15 +52,6 @@
       <pubDate>Fri, 28 May 2021 21:04:16 +0900</pubDate>
       
       <guid>https://waneal.github.io/tags/terraform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://waneal.github.io/tags/docker/</link>
-      <pubDate>Thu, 27 May 2021 22:52:27 +0900</pubDate>
-      
-      <guid>https://waneal.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
@@ -61,15 +79,6 @@
       <pubDate>Sun, 16 May 2021 23:00:43 +0900</pubDate>
       
       <guid>https://waneal.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>https://waneal.github.io/tags/aws/</link>
-      <pubDate>Wed, 12 May 2021 21:29:35 +0900</pubDate>
-      
-      <guid>https://waneal.github.io/tags/aws/</guid>
       <description></description>
     </item>
     
